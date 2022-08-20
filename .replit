@@ -1,0 +1,2 @@
+run = 'npm run start'
+entrypoint = 'pages/index.js'
